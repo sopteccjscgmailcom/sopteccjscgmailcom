@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hola mi nombre es Cliver Jimny 👋
+### Ingeniero de Sistemas y Desarrolador full stack 
+
+##
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 
 <!--
 **sopteccjscgmailcom/sopteccjscgmailcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
